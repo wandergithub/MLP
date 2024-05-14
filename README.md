@@ -1,3 +1,8 @@
-## Steps taken:
-1. Gather data
-2. familiarize with the datasets, reading and modifing
+## What I learned:
+1. Gathered data.
+2. Explore data.
+    - visualized data.
+    - filtred undesired data.
+
+### Tools used: 
+* Pandas
